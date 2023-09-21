@@ -47,5 +47,13 @@
     background-color: #e5e5e5;
 }
 
+.nora:hover{
+    text-shadow: 3px 3px 4px rgba(15, 14, 15, 0.5);
+    border: 3px solid #b10ebd;
+}
 
+.helmer:hover{
+    text-shadow: 3px 3px 4px rgba(43, 2, 16, 0.5);
+    border: 3px solid #cb6a98;
+}
 
